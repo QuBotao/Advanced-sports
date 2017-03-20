@@ -1,0 +1,33 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "高级运动",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "webpack": "^2.2.1"
+  },
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-core": "^6.24.0",
+    "babel-loader": "^6.4.1",
+    "css-loader": "^0.27.3",
+    "extract-text-webpack-plugin": "^2.1.0",
+    "file-loader": "^0.10.1",
+    "style-loader": "^0.14.1",
+    "uglifyjs-webpack-plugin": "^0.3.0",
+    "url-loader": "^0.5.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuBotao/Advanced-sports.git"
+  },
+  "author": "ScriptTao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QuBotao/Advanced-sports/issues"
+  },
+  "homepage": "https://github.com/QuBotao/Advanced-sports#readme"
+}
